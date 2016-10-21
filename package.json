@@ -1,0 +1,17 @@
+{
+  "name": "future-funk-grey-tuesday-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "Future Funk Grey Tuesday ported to Atom",
+  "keywords": [
+    "sublime",
+    "future-funk",
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/mattroylloyd/future-funk-grey-tuesday-syntax",
+  "license": "ISC",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
